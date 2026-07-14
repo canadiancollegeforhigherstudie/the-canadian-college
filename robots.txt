@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canadiancollegeforhigherstudie.github.io/the-canadian-college/sitemap.xml
